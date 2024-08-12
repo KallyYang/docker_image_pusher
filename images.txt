@@ -1,5 +1,5 @@
 nginx
-docker pull ghcr.io/immich-app/immich-server:pr-11533
+docker pull ghcr.io/immich-app/immich-server:pr-11533@sha256:7b60f15e99ac7fad77bd13207151bcbc2cda05b38d538d65d9d7a34c062d6830
 #ghcr.io/immich-app/immich-machine-learning
 docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0@sha256:90724186f0a3517cf6914295b5ab410db9ce23190a2d9d0b9dd6463e3fa298f0
-librespeed
+linuxserver/librespeed
